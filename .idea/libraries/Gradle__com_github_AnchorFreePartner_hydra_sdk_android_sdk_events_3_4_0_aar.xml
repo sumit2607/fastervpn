@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a613bf56dae20b2a5e7d96d0f02a0aa4/transformed/jetified-sdk-events-3.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a613bf56dae20b2a5e7d96d0f02a0aa4/transformed/jetified-sdk-events-3.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a613bf56dae20b2a5e7d96d0f02a0aa4/transformed/jetified-sdk-events-3.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

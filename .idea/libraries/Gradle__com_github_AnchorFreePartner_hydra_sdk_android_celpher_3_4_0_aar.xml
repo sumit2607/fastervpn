@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:celpher:3.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/19dbfa0ebe0b90e094f4a62537835482/transformed/jetified-celpher-3.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19dbfa0ebe0b90e094f4a62537835482/transformed/jetified-celpher-3.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/19dbfa0ebe0b90e094f4a62537835482/transformed/jetified-celpher-3.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
